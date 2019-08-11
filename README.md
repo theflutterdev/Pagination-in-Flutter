@@ -24,5 +24,5 @@ which is required for the user.
 So, Enough intro, let's start coding
 
 In this context we are not actually loading the
-data from database or API but we actually performed
-a pagination exa
+data from database or API, So we actually performed
+a pagination example considering numbers as a data elements from a server or API
